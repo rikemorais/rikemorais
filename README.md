@@ -7,12 +7,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="C#" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Power BI" height="30" width="30" src="https://th.bing.com/th/id/R.3a646f7af36c19f92453a872e1a6a329?rik=NGLnMz%2bk6faQkw&riu=http%3a%2f%2fit.miami.edu%2f_assets%2fimages%2fO365_Power_BI.png&ehk=HBpjA2cY61UDu8947P%2f2Gm%2fB0yMsGkb7ZeS3AFO5hBs%3d&risl=&pid=ImgRaw&r=0">
-  <img align="center" alt="Node" height="30" width="30" src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e20cb3c0b667ba8c8e07571_icon-node--tech.png">
   <img align="center" alt="Angular" height="30" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png">
   <img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">
-  <img align="center" alt="Javascript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Flutter" height="30" width="30" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png">
   </div>
   
 ##
