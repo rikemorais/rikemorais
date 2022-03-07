@@ -1,4 +1,4 @@
-## Hi, I am Henrique Morais!
+## Hi, I'm Henrique Morais!
 <div align="left">
   <a href="https://github.com/RikeMorais">
   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikeMorais&layout=compact&langs_count=7&theme=dracula"/>
