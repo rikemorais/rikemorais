@@ -6,6 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="C#" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Angular" height="30" width="30" src="https://makeable.dk/wp-content/uploads/2020/09/logo_angular-768x817.png">
   <img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">
   <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
