@@ -13,5 +13,5 @@
 </div>
 <h6>Social Media</h6>
 <div>
-  <a href="https://www.linkedin.com/in/rikemorais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rikemorais/" target="_blank"><img src="https://www.voxens.fr/wp-content/uploads/2017/12/010-linkedin-300x300.png" target="_blank" height="30" width="30"></a>
 </div>
