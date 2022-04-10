@@ -14,4 +14,5 @@
 <h6>Social Media</h6>
 <div>
   <a href="https://www.linkedin.com/in/rikemorais/" target="_blank"><img src="https://www.voxens.fr/wp-content/uploads/2017/12/010-linkedin-300x300.png" target="_blank" height="30" width="30"></a>
+  <a href="https://www.instagram.com/rike.morais/" target="_blank"><img src="https://th.bing.com/th/id/R.26d9974a1feec9905a4e0d5e5ddf8db6?rik=ycoXFwG5Udz08A&pid=ImgRaw&r=0" target="_blank" height="30" width="30"></a>
 </div>
