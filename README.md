@@ -16,8 +16,8 @@
 </div>
 <h6>Social Media</h6>
 <div>
-  <a href="https://www.linkedin.com/in/rikemorais/" target="_blank"><img src="https://www.voxens.fr/wp-content/uploads/2017/12/010-linkedin-300x300.png" target="_blank" height="30" width="30"></a>
-  <a href="https://twitter.com/rikemorais/" target="_blank"><img src="https://th.bing.com/th/id/R.9a3a06f78cc0a8d79fce59e2de6da146?rik=dPpebIZS75XeLg&riu=http%3a%2f%2fdownload.seaicons.com%2ficons%2fiynque%2fios7-style%2f1024%2fTwitter-icon.png&ehk=9uxMZF8lPTQeq29dorwdNNTmLgAbWnyRVjid%2fbw0M4k%3d&risl=&pid=ImgRaw&r=0" target="_blank" height="30" width="30"></a>
+  <a href="https://www.linkedin.com/in/rikemorais/" target="_blank"><img src="https://rikemorais.net/images/linkedin.png" target="_blank" height="30" width="30"></a>
+  <a href="https://twitter.com/rikemorais/" target="_blank"><img src="https://rikemorais.net/images/twitter.png" target="_blank" height="30" width="30"></a>
   <a href="https://www.instagram.com/rike.morais/" target="_blank"><img src="https://th.bing.com/th/id/R.26d9974a1feec9905a4e0d5e5ddf8db6?rik=ycoXFwG5Udz08A&pid=ImgRaw&r=0" target="_blank" height="30" width="30"></a>
   <a href="https://www.facebook.com/orikemorais/" target="_blank"><img src="https://1.bp.blogspot.com/-S8HTBQqmfcs/XN0ACIRD9PI/AAAAAAAAAlo/FLhccuLdMfIFLhocRjWqsr9cVGdTN_8sgCPcBGAYYCw/s1600/f_logo_RGB-Blue_1024.png" target="_blank" height="30" width="30"></a>
 </div>
