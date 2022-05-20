@@ -1,8 +1,8 @@
 
 ![Folder](https://media-exp1.licdn.com/dms/image/C4E16AQHkO7Uhz1U0kg/profile-displaybackgroundimage-shrink_350_1400/0/1652917872418?e=1658361600&v=beta&t=fshJtNYlXXQVnRnnMt8SGrB-Lbd3pqvh3BIwK0hFC0g)
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikemorais&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&cache_seconds=1800&border_radius=20&card_width=340"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rikemorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&cache_seconds=1800&border_radius=20"/>
+<div align="justify">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikemorais&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&cache_seconds=1800&border_radius=20&card_width=360"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rikemorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&cache_seconds=1800&border_radius=20"/>
 </div>
 <br>
 <div style="display: inline_block">
