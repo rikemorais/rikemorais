@@ -1,12 +1,10 @@
 
-<div align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikemorais&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&cache_seconds=1800&border_radius=20&card_width=355"/>
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=rikemorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&cache_seconds=1800&border_radius=20"/>
-  <br><br>
-  <img align="center" width="355" src="https://github-readme-streak-stats.herokuapp.com?user=rikemorais&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="rikemorais" />
-  <br><br>
-  <img width="840" src="https://activity-graph.herokuapp.com/graph?username=rikemorais&&theme=rogue&hide_title=true"/>
-</div>
+<div>
+  <p align="center"><img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikemorais&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&cache_seconds=1800&border_radius=20&card_width=355"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=rikemorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&cache_seconds=1800&border_radius=20"/></p>
+  <p align="center"><img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com?user=rikemorais&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="rikemorais" /></p>
+  <p align="center"><img width="840" src="https://activity-graph.herokuapp.com/graph?username=rikemorais&&theme=rogue&hide_title=true"/>
+</div></p>
 <div>
   <h3>My Favorite Languages</h3>
   <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
