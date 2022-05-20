@@ -16,7 +16,6 @@
 <h3>Social Media</h3>
 
 <div>
-  <a href="https://rikemorais.net/" target="_blank"><img src="https://github.com/rikemorais/rikemorais.net/blob/main/images/logo.png?raw=true" target="_blank" height="50" width="50"></a>
   <a href="https://www.linkedin.com/in/rikemorais/" target="_blank"><img src="https://rikemorais.net/images/linkedin.png" target="_blank" height="50" width="50"></a>
   <a href="https://twitter.com/rikemorais/" target="_blank"><img src="https://rikemorais.net/images/twitter.png" target="_blank" height="50" width="50"></a>
 </div>
