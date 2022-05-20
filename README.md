@@ -1,9 +1,15 @@
 
-![Folder](https://media-exp1.licdn.com/dms/image/C4E16AQHkO7Uhz1U0kg/profile-displaybackgroundimage-shrink_350_1400/0/1652917872418?e=1658361600&v=beta&t=fshJtNYlXXQVnRnnMt8SGrB-Lbd3pqvh3BIwK0hFC0g)
----
+![](https://komarev.com/ghpvc/?username=rikemorais&style=for-the-badge)
+
 <div align="center">
+  <img width="840" src="https://media-exp1.licdn.com/dms/image/C4E16AQHkO7Uhz1U0kg/profile-displaybackgroundimage-shrink_350_1400/0/1652917872418?e=1658361600&v=beta&t=fshJtNYlXXQVnRnnMt8SGrB-Lbd3pqvh3BIwK0hFC0g"/>
+  <br><br>
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikemorais&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&cache_seconds=1800&border_radius=20&card_width=355"/>
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=rikemorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&cache_seconds=1800&border_radius=20"/>
+  <br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rikemorais&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="rikemorais" />
+  <br><br>
+  <img width="840" src="https://activity-graph.herokuapp.com/graph?username=rikemorais&&theme=rogue&hide_title=true"/>
 </div>
 <div>
   <h3>My Favorite Languages</h3>
@@ -15,4 +21,7 @@
 <div>
   <a href="https://www.linkedin.com/in/rikemorais/" target="_blank"><img src="https://rikemorais.net/images/linkedin.png" target="_blank" height="50" width="50"></a>
   <a href="https://twitter.com/rikemorais/" target="_blank"><img src="https://rikemorais.net/images/twitter.png" target="_blank" height="50" width="50"></a>
+</div>
+<div align="center">
+  <p align="center"> <a href="https://twitter.com/rikemorais" target="blank"><img src="https://img.shields.io/twitter/follow/rikemorais?logo=twitter&style=for-the-badge" alt="rikemorais" /></a></p>
 </div>
