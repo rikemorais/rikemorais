@@ -1,8 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=rikemorais&style=for-the-badge)
-
 <div align="center">
-  <br><br>
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikemorais&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&cache_seconds=1800&border_radius=20&card_width=355"/>
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=rikemorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&cache_seconds=1800&border_radius=20"/>
   <br><br>
@@ -21,6 +18,8 @@
   <a href="https://www.linkedin.com/in/rikemorais/" target="_blank"><img src="https://rikemorais.net/images/linkedin.png" target="_blank" height="50" width="50"></a>
   <a href="https://twitter.com/rikemorais/" target="_blank"><img src="https://rikemorais.net/images/twitter.png" target="_blank" height="50" width="50"></a>
 </div>
-<div align="center">
-  <p align="center"> <a href="https://twitter.com/rikemorais" target="blank"><img src="https://img.shields.io/twitter/follow/rikemorais?logo=twitter&style=for-the-badge" alt="rikemorais" /></a></p>
+<div>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=rikemorais&style=for-the-badge" alt="rikemorais" />
+  </p>
 </div>
