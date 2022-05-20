@@ -2,7 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=rikemorais&style=for-the-badge)
 
 <div align="center">
-  <img width="840" src="https://media-exp1.licdn.com/dms/image/C4E16AQHkO7Uhz1U0kg/profile-displaybackgroundimage-shrink_350_1400/0/1652917872418?e=1658361600&v=beta&t=fshJtNYlXXQVnRnnMt8SGrB-Lbd3pqvh3BIwK0hFC0g"/>
   <br><br>
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikemorais&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&cache_seconds=1800&border_radius=20&card_width=355"/>
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=rikemorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&cache_seconds=1800&border_radius=20"/>
