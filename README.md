@@ -1,11 +1,11 @@
-## Hi, I'm Henrique Morais!
-<div align="center">
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikeMorais&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" width="460em" src="https://github-readme-stats.vercel.app/api?username=rikemorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-</div>
 
-<div align="center">
-  <img img height="180em" width="100%" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rikemorais&theme=dracula"/>
+![Rike](https://media-exp1.licdn.com/dms/image/C4E16AQHkO7Uhz1U0kg/profile-displaybackgroundimage-shrink_350_1400/0/1652917872418?e=1658361600&v=beta&t=fshJtNYlXXQVnRnnMt8SGrB-Lbd3pqvh3BIwK0hFC0g)
+
+## Hi, I'm Henrique Morais!
+<div align="justify">
+  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikemorais&layout=compact&langs_count=14&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img border="solid" height="180em" width="600em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rikemorais&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="380" src="https://github-readme-stats.vercel.app/api?username=rikemorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inline_block">
