@@ -5,7 +5,7 @@
   <p align="left"><img width="750" src="https://activity-graph.herokuapp.com/graph?username=rikemorais&&theme=material-palenight&hide_title=true&line=#ff5555"/>
 </div></p>
 <div>
-  <h3>My Favorite Languages and Frameworks</h3>
+  <h3>My Favorite Languages</h3>
   <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C#" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="TypeScript" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">
