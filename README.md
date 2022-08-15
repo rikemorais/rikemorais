@@ -2,7 +2,7 @@
   <p align="left"><img width="750" src="https://user-images.githubusercontent.com/42439687/179867237-0e90a1b8-c363-46b0-8202-bc1d7cd59e94.png" alt="rikemorais" /></p>
   <p align="left"><img width="750" src="https://github-readme-streak-stats.herokuapp.com?user=rikemorais&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="rikemorais" /></p>
   <div align="left"><h3>My Favorite Languages</h3></div>
-  <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikemorais&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&hide_title=true&hide_border=true&border_radius=20&card_width=700&hide=html,css,scss,Jupyter Notebook, Procfile, JavaScript"/>
+  <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikemorais&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&hide_title=true&hide_border=true&border_radius=20&card_width=700&hide=html,css,scss,procfile" />
   <p align="left"><img width="750" src="https://activity-graph.herokuapp.com/graph?username=rikemorais&&theme=material-palenight&hide_title=true&line=#ff5555"/>
 </div></p>
 <div>
