@@ -1,1 +1,1 @@
-
+I always liked complex challenges. Problems that require thinking and creativity are the fuel that moves me towards solutions. Although I like to work in an organized and well-planned way, I can deliver very well under pressure. I can stay focused on any kind of environment and problem.
