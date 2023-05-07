@@ -5,7 +5,4 @@
 :computer: Data Engineer at will bank  
 :mortar_board: Bachelor of Information Systems  
 :mortar_board: Post Graduate in Systems Development
-  
-[![Linkedin Badge](https://img.shields.io/badge/-rikemorais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rikemorais)](https://www.linkedin.com/in/rikemorais)
-
 </div>
