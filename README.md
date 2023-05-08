@@ -6,15 +6,13 @@
   
 :computer: Data Engineer at [Will Bank](https://www.willbank.com.br/) (Currently)  
 :computer: Analitycs Engineer at [DASA](https://en.wikipedia.org/wiki/Diagnosticos_da_America) [2022-2023]  
-:computer: Intelligence Department Manager at [EssilorLuxottica](https://en.wikipedia.org/wiki/EssilorLuxottica) [2012-2022]
+:computer: Data Manager at [EssilorLuxottica](https://en.wikipedia.org/wiki/EssilorLuxottica) [2012-2022]
 
 
 ### Education
 
 :mortar_board: Post Graduate in Systems Development [2021-2022]  
 :mortar_board: Bachelor of Information Systems [2017-2021]  
-:x: Bachelor's Degree in Statistics [I Gave Up 2015-2016]  
-:x: Degree in Mathematics [I Gave Up 2012-2014]  
   
 ### About Me
   
