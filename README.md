@@ -11,7 +11,7 @@
 
 ### Education
 
-:mortar_board: Post Graduate in Software Architecture [2024-2025]
+:mortar_board: Post Graduate in Software Architecture [2024-2025]  
 :mortar_board: Post Graduate in Systems Development [2021-2022]  
 :mortar_board: Bachelor of Information Systems [2017-2021]  
 
