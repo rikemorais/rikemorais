@@ -8,9 +8,9 @@ I've been working with technology since 2012 and love discovering simple ways to
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [rikeaju@hotmail.com](mailto:rikeaju@hotmail.com)
-* 🚀  I'm currently working on [Will Bank](http://www.willbank.com.br/)
-* 🧠  I'm learning Java and Go
-* 🤝  I'm open to collaborating on Any type of project
+* 🚀  I'm currently working on [Visa](https://www.visa.com.br/)
+* 🧠  I'm learning Rust and Go
+* 🤝  I'm open to collaborating on Any Type of Project
 * ⚡  I love playing League of Legends
 
 ### Skills
@@ -26,10 +26,6 @@ I've been working with technology since 2012 and love discovering simple ways to
 <p align="left"> <a href="https://www.github.com/rikemorais" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rikemorais" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@rike.morais" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/rikemorais"><img src="https://github-readme-stats.vercel.app/api?username=rikemorais&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rikemorais's GitHub stats" /></a>
 
 <a href="http://www.github.com/rikemorais"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rikemorais&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
